@@ -16,13 +16,10 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_pushButton_clicked();
 
     void on_button_hw_clicked();
 
     void on_button_fb_clicked();
-
-    void on_button_temp_clicked();
 
     void on_tempcon_clicked();
 
